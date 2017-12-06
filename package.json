@@ -1,0 +1,25 @@
+{
+  "name": "node-backend-template",
+  "version": "1.0.0",
+  "description": "This is a template for node-backend project. ",
+  "main": "bin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxd19891121/node-backend-template.git"
+  },
+  "author": "xiaodong chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cxd19891121/node-backend-template/issues"
+  },
+  "homepage": "https://github.com/cxd19891121/node-backend-template#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6"
+  }
+}

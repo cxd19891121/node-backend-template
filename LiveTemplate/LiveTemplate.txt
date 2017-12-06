@@ -1,0 +1,8 @@
+Live Templates:
+
+--File head:
+/**
+ * Created by $user$ on $date$.
+ * File Name: $file$
+ * Description: $description$
+ */
